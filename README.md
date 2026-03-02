@@ -13,8 +13,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrokorojames) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okorojames) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/okorojames_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/okorojames_)
 
 - 🌍 Somewhere on the web
-- 🖥️ Portfolio 👉[okorojames.com](https://okorojames.netlify.app)
-- 👨🏾‍💻 CV 👉 [My CV](https://okorojames.netlify.app/my-cv/OkoroJames_FrontendDeveloperCV.pdf)
+- 🖥️ Portfolio 👉[okorojames.com](https://www.okorojames.com)
+- 👨🏾‍💻 CV 👉 [My CV](https://www.okorojames.com/my-cv/OkoroJames_FrontendDeveloperCV.pdf)
 - ✉️ Email me 👉 [okorojameschizaram@gmail.com](mailto:okorojameschizaram@gmail.com)
 - 🧠 Learning
 - 🤝 Open for work, freelance and Open source contributions
